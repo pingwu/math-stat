@@ -20,7 +20,7 @@ def main():
        n= int(sys.argv[1])
        k= int(sys.argv[2])
        c= int(sys.argv[3])
-       for i in range(n):
+       for i in range(n+1):
            print(i, prob_correct_answer(n,i,c))
     else:
        n= int(input("Enter number of questions: "))
