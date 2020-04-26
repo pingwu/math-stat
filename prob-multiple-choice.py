@@ -27,10 +27,9 @@ def main():
        k= int(input("Enter number of correct guessed questions: "))
        c= int(input("Enter number of the choice per question: "))
     
-    print(f'The probability of guessing {k} questions correctly for {n} multiple choice questions having {c} choices per questions is \n')
     x = prob_correct_answer(n,k,c)
-
-
+    print(f'The probability of guessing {k} questions correctly \nfor {n} multiple choice questions \nhaving {c} choices per questions is \n{x}\n')
+    
 
 if __name__ == '__main__':
     main()
