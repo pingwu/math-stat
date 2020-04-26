@@ -12,7 +12,7 @@ k: is number of the choices to pick up from; assume only one answer is correct. 
 
 
 
-Addtional reference:
+## Addtional reference:
 What will be the answer if a multiple choice test consisting of 10 questions with four choices each, and the student guesses the answer to each question? What is the probability that he gets 8 questions correctly?
 
 https://www.quora.com/What-will-be-the-answer-if-a-multiple-choice-test-consisting-of-10-questions-with-four-choices-each-and-the-student-guesses-the-answer-to-each-question-What-is-the-probability-that-he-gets-8-questions-correctly
